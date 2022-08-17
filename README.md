@@ -10,6 +10,21 @@ The software (web-app) provides the following features:
 3. Allows users to **Manage their by contacts** by deleting,adding and modifying them continuously.
 4. Back-up Security option facility such as **Forgot Password**.
 
+## Tech Stack :-
+
+### FrontEnd Technologies:-
+HTML,
+CSS,
+Thymeleaf,
+Javascript.
+
+### Backend Technologies:-
+Java,
+Spring Boot,
+Spring Security,
+My SQL.
+
+
 # How to use the web-app : a walkthrough
 
 
